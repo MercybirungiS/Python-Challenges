@@ -11,9 +11,9 @@ print("Sum of first 10 numbers is:", sum)
 
 #using break
 
-for num in range(20):
+for num in range(10):
 
-    if num >20:
+    if num >10:
         print ("stop running ")
         break
     print(num)
