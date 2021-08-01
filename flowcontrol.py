@@ -1,6 +1,12 @@
+
 #flow control , the sum of the first ten numbers using while
 
 #using while
+=======
+#flow control , the sum of the first ten numbers using when 
+
+#using when 
+
 num = 10
 sum = 0
 i = 1
@@ -10,8 +16,9 @@ while i <= num:
 print("Sum of first 10 numbers is:", sum)
 
 #using break
-
 for num in range(10):
+
+
 
     if num >10:
         print ("stop running ")
