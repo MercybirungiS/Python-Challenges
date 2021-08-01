@@ -40,7 +40,7 @@ class BankAccount:
 newAccount=BankAccount(233444,"Carol",5000)
 print(newAccount.deposit(900))
 print(newAccount.withdraw(500))
-print(newAccount.bankfeees)
+print(newAccount.bankfees(0.9))
 print(newAccount.display)
 
 
